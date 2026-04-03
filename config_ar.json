@@ -12,8 +12,8 @@
       "font": "Tajawal",
       "type": "rotate",
       "title": "",
-      "showForCurrency": [
-        "OMR"
+      "hideForCurrency": [
+        "SAR", "USD", "KWD", "BHD", "QAR", "EUR", "GBP", "AED"
       ],
       "height": 30,
       "layout": "header_text",
@@ -1532,8 +1532,8 @@
     "enabled": true,
     "freeShippingEnabled": true,
     "freeGiftEnabled": true,
-    "showForCurrency": [
-      "OMR"
+    "hideForCurrency": [
+      "SAR", "USD", "KWD", "BHD", "QAR", "EUR", "GBP", "AED"
     ],
     "freeShippingThreshold": 24,
     "freeGiftThreshold": 35,
