@@ -69,7 +69,7 @@
       "items": [
         {
           "key": "zqevhJCLcy",
-          "image": "https://cdn.shopify.com/s/files/1/0235/6687/6752/files/DR_BANNER_MOBILE_EN.webp?v=1775496519",
+          "image": "https://cdn.shopify.com/s/files/1/0235/6687/6752/files/DR_BANNER_MOBILE_EN.webp",
           "video": "",
           "category": "gid://shopify/Collection/138436935760",
           "products": [],
@@ -1115,26 +1115,6 @@
           "parent": null
         },
         {
-          "category": "gid://shopify/Collection/275543097424",
-          "parent": "gid://shopify/Collection/169582166096"
-        },
-        {
-          "category": "gid://shopify/Collection/275543064656",
-          "parent": "gid://shopify/Collection/169582166096"
-        },
-        {
-          "category": "gid://shopify/Collection/275543130192",
-          "parent": "gid://shopify/Collection/169582166096"
-        },
-        {
-          "category": "gid://shopify/Collection/275543031888",
-          "parent": "gid://shopify/Collection/169582166096"
-        },
-        {
-          "category": "gid://shopify/Collection/275543162960",
-          "parent": "gid://shopify/Collection/169582166096"
-        },
-        {
           "category": "gid://shopify/Collection/169582559312",
           "parent": null
         },
@@ -1157,22 +1137,6 @@
         {
           "category": "gid://shopify/Collection/267868045392",
           "parent": null
-        },
-        {
-          "category": "gid://shopify/Collection/261325062224",
-          "parent": "gid://shopify/Collection/275392168016"
-        },
-        {
-          "category": "gid://shopify/Collection/261325029456",
-          "parent": "gid://shopify/Collection/275392168016"
-        },
-        {
-          "category": "gid://shopify/Collection/261325127760",
-          "parent": "gid://shopify/Collection/275392168016"
-        },
-        {
-          "category": "gid://shopify/Collection/261323259984",
-          "parent": "gid://shopify/Collection/275392168016"
         }
       ],
       "parallax": false,
