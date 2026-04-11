@@ -1068,7 +1068,11 @@
       "Porcelain": "FFfae1c6",
       "Warm Vanilla": "FFf1caa7",
       "01 Black": "FF323232",
-      "02 Brown": "FF883b01"
+      "02 Brown": "FF883b01",
+      "Taupe": "FF866f63",
+      "Auburn": "FF6a5e57",
+      "Espresso": "FF4e504f",
+      "Chocolate": "FF5c3a25"
     }
   },
   "TabBar": [
