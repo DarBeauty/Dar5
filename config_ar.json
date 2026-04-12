@@ -1107,7 +1107,7 @@
       "defaultTab": false,
       "fullscreen": true,
       "showOriginalColor": false,
-      "categoryLayout": "card",
+      "categoryLayout": "sideMenuWithSub",
       "categories": [
         "gid://shopify/Collection/169582166096",
         "gid://shopify/Collection/169582559312",
