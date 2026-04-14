@@ -830,7 +830,7 @@
       "colorCart": "ff000000",
       "colorIcon": null,
       "colorActiveIcon": null,
-      "iconSize": 18.0,
+      "iconSize": 24.0,
       "indicatorStyle": "none",
       "showFloatingClip": true,
       "showFloating": false,
