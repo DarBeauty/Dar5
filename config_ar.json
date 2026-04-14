@@ -1163,7 +1163,7 @@
     },
     {
       "layout": "videos",
-      "icon": "assets/icons/tabs/icon-videos.png",
+      "icon": "assets/icons/tabs/icon-videos.svg",
       "label": "اكتشف",
       "visible": true,
       "fullscreen": true,
