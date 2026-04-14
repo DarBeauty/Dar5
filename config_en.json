@@ -13,7 +13,14 @@
       "type": "rotate",
       "title": "",
       "hideForCurrency": [
-        "SAR", "USD", "KWD", "BHD", "QAR", "EUR", "GBP", "AED"
+        "SAR",
+        "USD",
+        "KWD",
+        "BHD",
+        "QAR",
+        "EUR",
+        "GBP",
+        "AED"
       ],
       "height": 30,
       "layout": "header_text",
@@ -830,7 +837,7 @@
       "colorCart": "ff000000",
       "colorIcon": null,
       "colorActiveIcon": null,
-      "iconSize": 18.0,
+      "iconSize": 24.0,
       "indicatorStyle": "none",
       "showFloatingClip": true,
       "showFloating": false,
@@ -1159,7 +1166,7 @@
     },
     {
       "layout": "videos",
-      "icon": "assets/icons/tabs/icon-videos.png",
+      "icon": "assets/icons/tabs/icon-videos.svg",
       "label": "Discover",
       "visible": true,
       "fullscreen": true,
@@ -1487,7 +1494,14 @@
     "freeShippingEnabled": true,
     "freeGiftEnabled": true,
     "hideForCurrency": [
-      "SAR", "USD", "KWD", "BHD", "QAR", "EUR", "GBP", "AED"
+      "SAR",
+      "USD",
+      "KWD",
+      "BHD",
+      "QAR",
+      "EUR",
+      "GBP",
+      "AED"
     ],
     "freeShippingThreshold": 24,
     "freeGiftThreshold": 35,
@@ -1516,7 +1530,13 @@
         "enabled": true,
         "dates": [],
         "showForCurrency": [
-          "SAR", "USD", "KWD", "BHD", "QAR", "EUR", "GBP"
+          "SAR",
+          "USD",
+          "KWD",
+          "BHD",
+          "QAR",
+          "EUR",
+          "GBP"
         ],
         "notices": [
           {
