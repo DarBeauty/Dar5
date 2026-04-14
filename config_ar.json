@@ -1153,18 +1153,19 @@
       "showQRScan": true
     },
     {
-      "layout": "videos",
-      "icon": "assets/icons/tabs/icon-videos.png",
-      "label": "اكتشف",
+      "key": "brandsTabKey01",
+      "layout": "brands",
+      "icon": "assets/icons/tabs/darbeauty_brand_icon.svg",
+      "label": "الماركات",
       "visible": true,
       "fullscreen": true,
       "showOriginalColor": false
     },
     {
-      "key": "bsLebVbFmF",
-      "icon": "assets/icons/tabs/darbeauty_heart_icon.svg",
-      "label": "المفضلة",
-      "layout": "wishlist",
+      "layout": "videos",
+      "icon": "assets/icons/tabs/icon-videos.png",
+      "label": "اكتشف",
+      "visible": true,
       "fullscreen": true,
       "showOriginalColor": false
     },
