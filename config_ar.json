@@ -202,7 +202,7 @@
       "enableBottomAddToCart": false,
       "showOnlyImage": false,
       "showCartButtonWithQuantity": false,
-      "parallax": true,
+      "parallax": false,
       "parallaxImageRatio": 1.2,
       "hideEmptyProductLayout": false,
       "productListItemHeight": 125.0,
