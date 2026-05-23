@@ -1,4 +1,20 @@
 {
+  "homePopup": {
+    "enabled": true,
+    "showOnce": false,
+    "expiryDate": "2026-06-30",
+    "image": "https://cdn.shopify.com/s/files/1/0235/6687/6752/files/A85B8BDD-53D2-4BB2-8AFB-1AB0F2FF6BCE.png?v=1779540014",
+    "buttonText": "Shop Now",
+    "couponCode": "EID26",
+    "navigator": {
+      "category_id": "277698576464",
+      "product_id": "",
+      "url": "",
+      "url_launch": "",
+      "blog": "",
+      "tab": ""
+    }
+  },
   "forceUpdate": {
     "enabled": false,
     "title": "New Update Available! ✨",
@@ -76,7 +92,7 @@
       "items": [
         {
           "key": "zqevhJCLcy",
-          "image": "https://cdn.shopify.com/s/files/1/0235/6687/6752/files/EID26_BANNER_MOBILE_EN.webp",
+          "image": "https://cdn.shopify.com/s/files/1/0235/6687/6752/files/DR_BANNER_MOBILE_EN.webp",
           "video": "",
           "category": "gid://shopify/Collection/138436935760",
           "products": [],
@@ -190,7 +206,7 @@
       "hideStore": false,
       "hideTitle": false,
       "featured": false,
-      "enableRating": false,
+      "enableRating": true,
       "showStockStatus": false,
       "hideEmptyProductListRating": false,
       "showHeart": true,
@@ -281,7 +297,7 @@
       "hideStore": false,
       "hideTitle": false,
       "featured": false,
-      "enableRating": false,
+      "enableRating": true,
       "showStockStatus": false,
       "hideEmptyProductListRating": false,
       "showHeart": true,
@@ -367,7 +383,7 @@
       "hideStore": false,
       "hideTitle": false,
       "featured": false,
-      "enableRating": false,
+      "enableRating": true,
       "showStockStatus": false,
       "hideEmptyProductListRating": false,
       "showHeart": true,
@@ -460,7 +476,7 @@
       "hideStore": false,
       "hideTitle": false,
       "featured": false,
-      "enableRating": false,
+      "enableRating": true,
       "showStockStatus": false,
       "hideEmptyProductListRating": false,
       "showHeart": true,
