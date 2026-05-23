@@ -4,11 +4,11 @@
     "showOnce": false,
     "expiryDate": "2026-06-30",
     "image": "https://cdn.shopify.com/s/files/1/0235/6687/6752/files/EID26.png?v=1779546847",
-    "buttonText": "Shop Now",
+    "buttonText": "",
     "couponCode": "EID26",
     "navigator": {
       "category_id": "",
-      "product_id": "7366060769360",
+      "product_id": "",
       "url": "",
       "url_launch": "",
       "blog": "",
