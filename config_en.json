@@ -1633,12 +1633,15 @@
       {
         "enabled": true,
         "dates": [
-          "2026-03-22",
-          "2026-03-23"
+          "2026-05-25",
+          "2026-05-26",
+          "2026-05-27",
+          "2026-05-28",
+          "2026-05-29"
         ],
         "notices": [
           {
-            "text": "Home notice text here.\nHome notice text here. Home notice text here."
+            "text": "Orders will be shipped after the Eid holiday.\nHappy Eid! 🌙✨"
           }
         ]
       },
