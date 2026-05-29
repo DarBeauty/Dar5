@@ -3,7 +3,7 @@
     "enabled": true,
     "showOnce": true,
     "expiryDate": "2026-06-05",
-    "image": "https://cdn.shopify.com/s/files/1/0235/6687/6752/files/EID26-en.png?v=1779555706",
+    "image": "https://cdn.shopify.com/s/files/1/0235/6687/6752/files/EID26-en.png",
     "buttonText": "",
     "couponCode": "EID26",
     "navigator": {
@@ -92,7 +92,7 @@
       "items": [
         {
           "key": "zqevhJCLcy",
-          "image": "https://cdn.shopify.com/s/files/1/0235/6687/6752/files/EID26-en.png",
+          "image": "https://cdn.shopify.com/s/files/1/0235/6687/6752/files/EID26_BANNER_MOBILE_EN.webp",
           "video": "",
           "category": "gid://shopify/Collection/138436935760",
           "products": [],
