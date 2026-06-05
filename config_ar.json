@@ -1,6 +1,6 @@
 {
   "homePopup": {
-    "enabled": true,
+    "enabled": false,
     "showOnce": true,
     "expiryDate": "2026-06-05",
     "image": "https://cdn.shopify.com/s/files/1/0235/6687/6752/files/EID26.png",
