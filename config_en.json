@@ -16,7 +16,7 @@
     }
   },
   "forceUpdate": {
-    "enabled": false,
+    "enabled": true,
     "title": "New Update Available! ✨",
     "message": "We've made important performance improvements and added amazing new features. Update now for the best shopping experience.",
     "buttonText": "Update Now",
